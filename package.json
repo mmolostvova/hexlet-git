@@ -1,0 +1,20 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "no code no plan experiment with amend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmolostvova/hexlet-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmolostvova/hexlet-git/issues"
+  },
+  "homepage": "https://github.com/mmolostvova/hexlet-git#readme",
+  "type": "module"
+}
