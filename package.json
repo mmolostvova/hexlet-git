@@ -16,5 +16,8 @@
     "url": "https://github.com/mmolostvova/hexlet-git/issues"
   },
   "homepage": "https://github.com/mmolostvova/hexlet-git#readme",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
 }
