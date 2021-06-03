@@ -1,2 +1,3 @@
 test:
-	node __tests__/capitalize.test.js
+	NODE_OPTIONS=--experimental-vm-modules npx jest
+	
